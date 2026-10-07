@@ -1,0 +1,17 @@
+---
+title: "IC8-2: CITI Certification"
+author: "Georgia Monjarrez | October 6, 2026"
+format: html
+---
+
+## CITI Training and Certification
+
+I completed the CITI Program Human Research training for the College of Business Administration at Cal Poly Pomona. The certificate below confirms completion of the required training on October 6, 2026.
+
+![CITI Completion Certificate](citiCompletionCertificate_16151515_80150240.jpg){fig-alt="CITI Program Human Research completion certificate for Georgia Monjarrez" width="100%"}
+
+## Appendix
+
+[GitHub QMD](https://github.com/gmonjarrez/ic8-2-citi-certification/blob/main/ic8-2-citi-certification.qmd)
+
+[Published HTML / GitHub Pages](https://gmonjarrez.github.io/ic8-2-citi-certification/)
